@@ -1,0 +1,36 @@
+{
+  "name": "template-cli",
+  "version": "1.0.0",
+  "description": "Render Mustache-style templates from CLI. Scaffold entire directories. Zero dependencies.",
+  "type": "module",
+  "bin": {
+    "template-cli": "./index.js",
+    "tmpl": "./index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "developer-tools",
+    "cli",
+    "nodejs",
+    "zero-dependencies",
+    "templates",
+    "mustache",
+    "scaffolding",
+    "code-generation"
+  ],
+  "license": "MIT",
+  "author": "NickCirv",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NickCirv/template-cli.git"
+  },
+  "homepage": "https://github.com/NickCirv/template-cli#readme",
+  "bugs": {
+    "url": "https://github.com/NickCirv/template-cli/issues"
+  },
+  "files": [
+    "index.js"
+  ]
+}
