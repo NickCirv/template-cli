@@ -1,3 +1,5 @@
+![Banner](banner.svg)
+
 # template-cli
 
 > Render Mustache-style templates from CLI. Files, directories, variables. Zero dependencies.
