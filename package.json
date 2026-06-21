@@ -7,8 +7,11 @@
     "template-cli": "./index.js",
     "tmpl": "./index.js"
   },
+  "scripts": {
+    "test": "node --test"
+  },
   "engines": {
-    "node": ">=18"
+    "node": ">=20"
   },
   "keywords": [
     "developer-tools",
